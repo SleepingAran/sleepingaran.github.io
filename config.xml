@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id= "edu.MobileGameDev.HighNoon"
+		version="0.0.1" >
+
+<name>High Noon App</name>
+
+<description>This is a simple High Noon App</description>
+<preference name="android-minSdkVersion" value="10" />
+</widget>
